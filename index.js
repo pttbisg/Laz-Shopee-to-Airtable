@@ -1,8 +1,8 @@
 /* eslint-disable no-await-in-loop */
 /* eslint-disable no-restricted-syntax */
 
-const API_KEY = "keyDnSRU2wOpLfkac"; //keyDKgRUhZqLlp7Mk
-const BASE = "appEDnb5sNTRGWHoV"; //appfmhpqL53IXwBzk
+const API_KEY = "keyDKgRUhZqLlp7Mk"; //keyDKgRUhZqLlp7Mk
+const BASE = "appfmhpqL53IXwBzk"; //appfmhpqL53IXwBzk
 const TABLE_NAME = "Lazada Orders";
 const FILENAME = "LAZ.xlsx";
 const FAILED_FILE_NAME = "failed.csv";
